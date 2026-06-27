@@ -1,4 +1,4 @@
-# AWS Load Balancers (ALB, NLB, GWL
+# AWS Load Balancers (ALB, NLB, GWLB)
 
 In simple words, an **AWS Load Balancer** is like a **traffic police officer** standing in front of your servers.
 
